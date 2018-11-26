@@ -1,0 +1,52 @@
+#article-quienes{
+    line-height: 2em;
+    background-image: url(assets/images/background-indexRecurso4.png);
+    /* background-position: center top; */
+    background-size: cover;
+    width: 100vw;
+    margin-left: -50vw;
+    left: 50%;
+    position: relative;
+    margin-bottom: 0;
+    background-attachment: fixed;
+    color: white;
+    /* height: 371px; */
+    padding: 7%;
+
+
+}
+
+#article-quienes h1{
+	margin-bottom: 30px;
+}
+#article-quienes p{
+	font-size: 1.2em;
+}
+#article-servicios{
+	   line-height: 2em;
+	 background-image: url(assets/images/shutterstock_205281751.jpg);
+	 background-size: cover;
+    width: 100vw;
+    margin-left: -50vw;
+    left: 50%;
+    position: relative;
+    margin-bottom: 0;
+    background-attachment: fixed;
+    color: white;
+    /* height: 371px; */
+    padding: 7%;
+
+}
+
+#article-servicios h1{
+	margin-bottom: 30px;
+	color: #57bdbb;
+}
+
+#article-servicios p{
+	font-size: 1.2em;
+	background-color: #57bdbb;
+    padding: 5px;
+    border-radius: 10px;
+    opacity: 0.8;
+}

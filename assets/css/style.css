@@ -651,7 +651,7 @@ fieldset {
     max-width: 1400px; } }
 
 #content {
-  margin-bottom: 1em; }
+  /*margin-bottom: 1em*/; }
   #content #primary {
     position: relative;
     float: left;
@@ -3665,7 +3665,7 @@ div.quantity.buttons_added {
   padding-right: 0.9375rem; }
   @media (min-width: 768px) {
     .header-logo {
-      width: 25%; } }
+      width: 17%; } }
   .header-logo .header-logo-link {
     display: block; }
 
@@ -3976,7 +3976,7 @@ div.quantity.buttons_added {
   position: relative;
   margin-left: -50vw;
   left: 50%;
-  margin-bottom: 3em;
+  /*margin-bottom: 3em;*/
   height: 485px; }
   .home-v1-slider .item,
   .home-v2-slider .item,
