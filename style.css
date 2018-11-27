@@ -114,6 +114,32 @@
 	padding: 0;
 }
 
+#hero-subtitle-v2{
+	opacity: .85;
+    /* top: 0px; */
+    /* border: 2px solid; */
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+}
+#subtitleHeroSubrogacion{
+    top: 0px;
+    /* border: 1px solid; */
+    text-align: center;
+    border-radius: 10px;
+    opacity: .9;
+    background-color: #e173aa;
+    color: white;
+    padding: 5px;
+}
+#subtitleHeroSubrogacion2{
+	    
+    top: 0px;
+    color: white;
+    text-align: center;
+    border: 1px solid;
+}
+
 @media only screen and (max-width: 700px) {
 	#article-quienes, #article-servicios, #article-subrogacion, #article-turismo{
 		height: auto;
