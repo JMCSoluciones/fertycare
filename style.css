@@ -110,6 +110,9 @@
     text-align: center;
 
 }
+#icono-soporte{
+	padding: 0;
+}
 
 @media only screen and (max-width: 700px) {
 	#article-quienes, #article-servicios, #article-subrogacion, #article-turismo{
