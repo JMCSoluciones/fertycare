@@ -50,3 +50,69 @@
     border-radius: 10px;
     opacity: 0.8;
 }
+#article-subrogacion{
+	    line-height: 2em;
+    background-image: url(assets/images/background-indexRecurso5.png);
+    background-position: center right;
+    background-size: cover;
+    width: 100vw;
+    margin-left: -50vw;
+    left: 50%;
+    position: relative;
+    margin-bottom: 0;
+    background-attachment: fixed;
+    color: white;
+    height: 371px;
+    padding: 7%;
+}
+#article-subrogacion h1{
+	margin-bottom: 30px;
+
+}
+
+#article-subrogacion p{
+	font-size: 1.2em;
+
+    padding: 5px 10px;
+
+}
+
+#article-turismo{
+	line-height: 2em;
+    background-image: url(assets/images/BackgroundTurismo.jpg);
+    background-position: center right;
+    background-size: cover;
+    width: 100vw;
+    margin-left: -50vw;
+    left: 50%;
+    position: relative;
+    margin-bottom: 0;
+    background-attachment: fixed;
+    color: white;
+    height: 571px;
+    padding: 7%;
+
+}
+#article-turismo h1{
+	margin-bottom: 30px;
+	color: #ce1d76;
+    border: 2px solid;
+    border-radius: 10px;
+
+}
+
+#article-turismo p{
+	font-size: 1.2em;
+    background-color: #e173aa;
+    opacity: .9;
+    border-radius: 10px;
+    padding: 20px 50px;
+    text-align: center;
+
+}
+
+@media only screen and (max-width: 700px) {
+	#article-quienes, #article-servicios, #article-subrogacion, #article-turismo{
+		height: auto;
+	}
+}
